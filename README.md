@@ -1,0 +1,2 @@
+# Mess_calculator
+My first python GUI project.It's a calculating app that will calculate the total cost a mess member have to pay at the month end. Here i stored fixed cost as 2375 taka(Bangladeshi currency).So the main formula is =(fixed_cost + Total_meal_fee - spent_in_buying_stuffs).At first putting the required info in the suitable box whenever we hit the "equal(=)" sign we see the result in the output box("Hate To pay").
